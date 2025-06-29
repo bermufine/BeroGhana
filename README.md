@@ -1,18 +1,19 @@
 # BeroGhana
 {
 "categorieGha": [
-{
-"name": "Movies",
-"videos": [
-{
+        {
+          "name": "Movies",
+            "videos": [
+                  {
 "descriptionGha": "GTV est une chaîne télévisée émettant 5a Accra au Ghana",
 "sourceGha": [
-"https://ythls.onrender.com/channel/UCm8MfVSyDrrB34TZhU3YVBA.m3u8"
-],
-"subtitleGha": "By Channel",
+"https://ythls.onrender.com/channel/UCm8MfVSyDrrB34TZhU3YVBA.m3u8"],
+"subtitleGha": "All Channel",
 "thumbGha": "https://od.lk/s/M18yODk4NDU3ODlf/gtv.jpeg",
 "titleGha": "GTV"
-},
+                },
+                { "descriptionGha": "Dream channel télévision est une chaine généraliste basée à yaoundé (cameroun)
+Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>", "sourceGha": [ "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8" ], "subtitleGha": "All Channels", "thumbGha": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg", "titleGha": "DREAM CHANNEL"},
 {
 "descriptionGha": "GTV est une chaîne télévisée émettant à Accra au Ghana",
 "sourceGha": [
